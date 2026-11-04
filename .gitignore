@@ -6,3 +6,4 @@
 !/data/live/
 /data/live/*
 !/data/live/state.json
+!/data/live/demographics.json
